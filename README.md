@@ -20,5 +20,7 @@ To install PharmaPy, download and unzip the code from the release section, and t
 
 Read our [link to documentation page] for more information on how to install and how to use PharmaPy.
 
+or go to the google doc and read the instruction
+https://docs.google.com/document/d/1OonIIvzmM3Lee91wCJJHCv1A6ulRdQtsMbiCg0V_VjQ/edit?usp=sharing
 
 
