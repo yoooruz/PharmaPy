@@ -6,6 +6,8 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/CryPTSys/PharmaPy/total)
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.compchemeng.2021.107408-blue)](https://www.sciencedirect.com/science/article/abs/pii/S0098135421001861)
 <!-- END Status badges -->
+Hi, this is a modified version of PharmaPy installation package for MacOS users. 
+Hope it will help with your project:)
 
 PharmaPy is a pythonic library for the analysis of pharmaceutical manufacturing systems.
 
